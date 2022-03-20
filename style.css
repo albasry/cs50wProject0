@@ -1,0 +1,139 @@
+/*div {
+    border: 1px solid black;
+    align-items: center;
+}*/
+nav {
+    padding: 1px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: block;
+    float: right;
+  }
+  
+  li a {
+      display: block;
+      color: darkslategrey;
+      text-align: center;
+      padding: 15px 16px;
+      text-decoration: none;
+  }
+  p {
+      font-family: arial, sans-serif;;
+  }
+.logontext {
+    display: block;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.advgoogle {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.advtxt {
+    color: red;
+    font-size: 20px;
+    margin: 20px;
+}
+.advfloat {
+    display: flex;
+    height: 25px;
+    width: 1900px;
+    align-items: center;
+    padding: 0;
+    margin: 60px 0 0 20px;
+}
+.txtwidth {
+    width: 10%;
+}
+.advbutton {
+    color: white;
+    background-color: royalblue;
+    margin: 20px 700px;
+    padding: 5px;
+    border: 0;
+}
+.inputstyle {
+    width: 600px;
+    margin: 20px;
+}
+.findtxt {
+    margin: 20px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imgText {
+    display: block;
+    color: cornflowerblue;
+    font: 20px arial, sans-serif;
+    width: 100px;
+    margin-top: 0;
+    margin-left: 65%;
+    margin-right: auto;
+}
+.coolGoogle {
+    display: block;
+    margin-top: 150px;
+}
+
+.centerForm {
+    display: block;
+    margin: 20px;
+}
+.radSearch {
+    margin: 10px;
+    height: 40px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #aaaaaa;;
+    border-radius: 25px;
+}
+
+.inerSerch {
+    height: 38px;
+    width: 420px;
+    border: 0;
+}
+.coolSub {
+    background-color: ghostwhite;
+    height: 30px;
+    border: 1px solid gainsboro;
+    padding: 0 20px 0 20px;
+    margin: auto;
+    color: darkslategray;
+    cursor: pointer;
+    user-select: none;
+}
+input {
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+    padding: 0;
+    outline: none;
+    font-size: 16px;
+}
+.floating {
+    display: flex;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 30px;
+    background-color:whitesmoke;
+}
